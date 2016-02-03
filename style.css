@@ -1,0 +1,23 @@
+#para1 {
+  font-family: "Georgia", serif;
+font-weight: 100;
+}
+
+h2 {
+  font-weight: normal;
+}
+
+#para2 {
+  font-family: sans-serif;
+font-weight: 300;
+}
+
+#para3 {
+  font-family: monospace;
+font-weight: 700;
+}
+
+#para4 {
+  font-family: cursive;
+font-weight: 900;
+}
